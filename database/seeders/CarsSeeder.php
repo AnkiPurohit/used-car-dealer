@@ -13,7 +13,7 @@ class CarsSeeder extends Seeder
      */
     public function run(): void
     {
-        $filePath = storage_path('app/cars.csv');
+        $filePath = database_path('seeds/data/cars.csv');
         $file = fopen($filePath, 'r');
 
         // Skip the header row
