@@ -11,8 +11,7 @@ Follow the steps below to set up the project on your local environment:
 ### Prerequisites
 - PHP 8.0 or higher
 - Composer
-- MySQL or any database supported by Laravel
-- Node.js and npm (optional, for frontend builds)
+- MySQL 
 
 ---
 
@@ -80,6 +79,6 @@ php artisan serve
 
 ## Future Enhancements
 * Add unit tests to ensure the robustness of the application.
-* Implement full import functionality for CSV or Excel files.
+* Implement full import functionality for CSV or Excel files if require.
 * Add pagination to the search results for better performance with large datasets.
 * Improve UI/UX using a frontend framework like Vue.js or React.
