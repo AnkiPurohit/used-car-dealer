@@ -1,0 +1,101 @@
+﻿id,manufacturer,model,year,colour
+1,Mercedes-Benz,G-Class,2007,Mauv
+2,Plymouth,Breeze,2000,Red
+3,Buick,LeSabre,2003,Orange
+4,Hyundai,Accent,2007,Violet
+5,Plymouth,Acclaim,1995,Teal
+6,Saturn,L-Series,2002,Purple
+7,Audi,A4,2004,Puce
+8,Subaru,Leone,1986,Violet
+9,Lincoln,Continental,1988,Green
+10,Ford,Bronco,1994,Red
+11,Nissan,Maxima,1992,Mauv
+12,Ford,F150,1997,Aquamarine
+13,Suzuki,Swift,1997,Fuscia
+14,Fiat,500,2012,Violet
+15,Chevrolet,3500,1993,Purple
+16,Buick,Skylark,1997,Indigo
+17,Mercury,Grand Marquis,2011,Fuscia
+18,Dodge,Viper,1997,Green
+19,Ford,E150,2006,Mauv
+20,Mercedes-Benz,W201,1985,Blue
+21,Infiniti,G35,2006,Puce
+22,Nissan,350Z,2007,Teal
+23,Eagle,Summit,1993,Teal
+24,Lincoln,MKX,2007,Teal
+25,Pontiac,Aztek,2002,Mauv
+26,Mazda,B-Series Plus,1998,Green
+27,Cadillac,Escalade EXT,2002,Blue
+28,MINI,Cooper,2009,Maroon
+29,Subaru,Outback,2004,Pink
+30,Dodge,Magnum,2006,Maroon
+31,Mercedes-Benz,E-Class,1985,Crimson
+32,Hyundai,Genesis Coupe,2013,Turquoise
+33,Infiniti,M,2003,Red
+34,Chrysler,300,2007,Maroon
+35,Lexus,GX,2011,Purple
+36,Volvo,V70,2007,Red
+37,Chrysler,Town & Country,2002,Maroon
+38,Mercury,Cougar,1994,Yellow
+39,Lexus,LX,2010,Violet
+40,GMC,Savana 2500,2011,Crimson
+41,Cadillac,DTS,2006,Green
+42,Subaru,Legacy,2000,Khaki
+43,Toyota,Ipsum,2000,Aquamarine
+44,GMC,Savana 1500,1998,Indigo
+45,Saab,9-2X,2006,Green
+46,Mercury,Mountaineer,1999,Mauv
+47,GMC,Envoy XUV,2004,Orange
+48,Nissan,Cube,2012,Aquamarine
+49,Hummer,H1,2001,Aquamarine
+50,Acura,Integra,2001,Violet
+51,Hyundai,Scoupe,1992,Yellow
+52,Infiniti,QX56,2008,Pink
+53,Lincoln,LS,2001,Purple
+54,Subaru,Legacy,2007,Red
+55,Mitsubishi,Truck,1986,Yellow
+56,Pontiac,Firefly,1992,Pink
+57,Mazda,CX-5,2013,Red
+58,Jeep,Wrangler,2001,Violet
+59,GMC,Suburban 1500,1998,Crimson
+60,Mitsubishi,Galant,2005,Green
+61,Volkswagen,Passat,1986,Aquamarine
+62,Audi,S4,2001,Violet
+63,Toyota,Camry,2001,Mauv
+64,Mercedes-Benz,SLR McLaren,2009,Purple
+65,Cadillac,Seville,1995,Turquoise
+66,Ford,E-Series,2002,Aquamarine
+67,Chevrolet,Sportvan G20,1993,Goldenrod
+68,Buick,Park Avenue,1992,Teal
+69,Land Rover,Discovery,1995,Khaki
+70,Mercedes-Benz,CL-Class,2006,Fuscia
+71,Mazda,MPV,1994,Purple
+72,Lexus,GS,2013,Aquamarine
+73,Pontiac,Grand Prix,1969,Puce
+74,Ford,Escape,2009,Khaki
+75,Chevrolet,Malibu,2005,Green
+76,GMC,Acadia,2012,Goldenrod
+77,Ford,Escort,2000,Fuscia
+78,Dodge,Stratus,1996,Aquamarine
+79,Dodge,Ram 3500 Club,1995,Khaki
+80,Cadillac,Brougham,1992,Red
+81,Dodge,Dakota Club,2005,Turquoise
+82,Suzuki,Swift,1989,Maroon
+83,Oldsmobile,Silhouette,2000,Fuscia
+84,Bentley,Mulsanne,2012,Indigo
+85,Ford,Econoline E150,2002,Orange
+86,Chevrolet,Silverado 3500,2011,Khaki
+87,Nissan,Titan,2009,Crimson
+88,Jaguar,XJ Series,2004,Fuscia
+89,Nissan,Stanza,1992,Puce
+90,GMC,Yukon XL 1500,2000,Puce
+91,Ford,Expedition,2000,Fuscia
+92,Ford,Ranger,1987,Maroon
+93,Cadillac,DTS,2009,Aquamarine
+94,Volkswagen,CC,2013,Orange
+95,Hyundai,Accent,1997,Purple
+96,Cadillac,Escalade ESV,2011,Red
+97,Nissan,240SX,1992,Aquamarine
+98,Kia,Sephia,1995,Mauv
+99,GMC,Acadia,2009,Aquamarine
+100,BMW,530,2005,Orange

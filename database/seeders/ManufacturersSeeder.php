@@ -12,7 +12,7 @@ class ManufacturersSeeder extends Seeder
      */
     public function run(): void
     {
-        $filePath = storage_path('app/manufacturers.csv');
+        $filePath = database_path('seeds/data/manufacturers.csv');
         $file = fopen($filePath, 'r');
 
         // Skip the header row
@@ -21,7 +21,7 @@ class ManufacturersSeeder extends Seeder
         // Insert each row into the database
         while ($row = fgetcsv($file)) {
             DB::table('manufacturers')->insert([
-                'id' => $row[0], 
+                'id' => $row[0],
                 'manufacturer' => $row[1],
                 'description' => $row[2],
                 'origin_country' => $row[3],
